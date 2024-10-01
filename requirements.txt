@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+tensorflow  # Adjust version if needed, e.g., tensorflow==2.9.0
+numpy
+opencv-python
+Pillow  # For image handling
+scikit-image  # For image preprocessing if necessary
