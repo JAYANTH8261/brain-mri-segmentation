@@ -5,3 +5,5 @@ numpy
 opencv-python
 Pillow  # For image handling
 scikit-image  # For image preprocessing if necessary
+streamlit
+requests
